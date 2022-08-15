@@ -1,7 +1,7 @@
 function sum(a, b) {
-	return a + b;
+    console.log(a + b);
 };
 
 function min(a, b, c) {
 	return Math.min(a, b, c);
-}
+};
