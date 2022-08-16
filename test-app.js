@@ -1,3 +1,3 @@
-function min(a, b, c, d) {
-	return Math.min(a, b, c, d);
+function min(a, b) {
+	return Math.min(a, b);
 };
